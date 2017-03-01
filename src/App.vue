@@ -32,7 +32,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" rel="stylesheet/scss">
   $primary: #ff00ff;
 
   #app {
