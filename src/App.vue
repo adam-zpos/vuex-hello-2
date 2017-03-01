@@ -14,7 +14,7 @@
     name: 'app',
     data () {
       return {
-        msg: 'Go Karting Attendance List',
+        msg: 'Go Karting Attendance List - March 2017',
         attendees: [],
         staff: [
           { id: 1, name: 'Adam', branch: 'Swindon', attending: false },
